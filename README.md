@@ -2,7 +2,7 @@
 
 Some exercises from freecodecamp after reading a bit of redux and react
 
-![GitHub Logo](/images/screenshot.png)
+![GitHub Logo](/image/screenshot.png)
 
 ## Available Scripts
 
